@@ -1,6 +1,6 @@
 ## Welcome! (ようこそ！)
 
-### A CS major who love's websites (also C#) 💕
+### A CS major who loves websites (also C#) 💕
 This is mainly for my school projects/weekly work. 
 <br>Eventually i'll think of something awesome to make
 - ✨ Pronouns: She/Her
