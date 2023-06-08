@@ -1,9 +1,9 @@
 ## Welcome! (ようこそ！)
 
 ### A CS major focused on C# & databases 💕
-This is mainly for my school projects/weekly work. 
-<br>Eventually i'll think of something awesome to make
+Welcome to my Github with mostly game mods.<br>
+I love trying to add things I miss into games or just making a useful thing.
 - ✨ Pronouns: She/Her
-- 📚 &nbsp;I’m currently learning: Javascript & Go
+- 📚 &nbsp;I’m currently learning: Javascript & Python
 - &nbsp;🎈 Fun fact: 私は日本語を勉強してる（良いじゃない）
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(I'm learning Japanese (I'm not good))
